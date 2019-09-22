@@ -1,0 +1,14 @@
+.user-img-block {
+    height: 114px;
+    width: 114px;
+    background-repeat: no-repeat;
+    border: 1px solid #cacaca;
+    border-radius: 50%;
+    margin-left: 54px;
+          }
+.box-footer .row{
+    margin-bottom:10px;
+}
+.description-block{
+    text-align: left;
+}
